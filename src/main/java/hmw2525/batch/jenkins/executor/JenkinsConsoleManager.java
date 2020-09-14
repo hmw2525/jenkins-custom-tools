@@ -7,7 +7,7 @@
  * shall use it only in accordance with the terms of the license agreement 
  * you entered into with SK planet. 
  */
-package com.sptek.batch.jenkins.executor;
+package hmw2525.batch.jenkins.executor;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
@@ -16,9 +16,9 @@ import java.util.Map;
 
 import org.apache.log4j.Logger;
 
-import com.sptek.batch.jenkins.server.JenkinsServer;
-import com.sptek.batch.jenkins.model.Job;
-import com.sptek.batch.jenkins.model.JenkinsConnector;
+import hmw2525.batch.jenkins.model.JenkinsConnector;
+import hmw2525.batch.jenkins.model.Job;
+import hmw2525.batch.jenkins.server.JenkinsServer;
 
 /** 
  * <p></p>

@@ -4,7 +4,7 @@
  * Distributed under the MIT license: http://opensource.org/licenses/MIT
  */
 
-package com.sptek.batch.jenkins.model;
+package hmw2525.batch.jenkins.model;
 
 import java.io.IOException;
 

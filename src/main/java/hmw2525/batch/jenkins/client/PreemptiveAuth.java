@@ -4,7 +4,7 @@
  * Distributed under the MIT license: http://opensource.org/licenses/MIT
  */
 
-package com.sptek.batch.jenkins.client;
+package hmw2525.batch.jenkins.client;
 
 import org.apache.http.HttpException;
 import org.apache.http.HttpHost;

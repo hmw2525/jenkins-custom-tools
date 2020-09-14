@@ -7,9 +7,9 @@
  * shall use it only in accordance with the terms of the license agreement 
  * you entered into with SK planet. 
  */
-package com.sptek.batch.jenkins.model;
+package hmw2525.batch.jenkins.model;
 
-import static com.sptek.batch.jenkins.model.EnJenkinsToolOptions.*;
+import static hmw2525.batch.jenkins.model.EnJenkinsToolOptions.*;
 
 import java.util.Arrays;
 import java.util.List;

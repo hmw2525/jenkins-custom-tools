@@ -4,7 +4,7 @@
  * Distributed under the MIT license: http://opensource.org/licenses/MIT
  */
 
-package com.sptek.batch.jenkins.client;
+package hmw2525.batch.jenkins.client;
 
 import static org.apache.commons.lang.StringUtils.isNotBlank;
 
@@ -30,7 +30,7 @@ import org.apache.http.util.EntityUtils;
 import org.codehaus.jackson.map.DeserializationConfig;
 import org.codehaus.jackson.map.ObjectMapper;
 
-import com.sptek.batch.jenkins.model.BaseModel;
+import hmw2525.batch.jenkins.model.BaseModel;
 
 public class JenkinsHttpClient {
     private URI uri;

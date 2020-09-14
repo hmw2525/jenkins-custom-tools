@@ -7,7 +7,7 @@
  * shall use it only in accordance with the terms of the license agreement 
  * you entered into with SK planet. 
  */
-package com.sptek.batch.jenkins.model;
+package hmw2525.batch.jenkins.model;
 
 /** 
  * <p></p>

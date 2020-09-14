@@ -4,7 +4,7 @@
  * Distributed under the MIT license: http://opensource.org/licenses/MIT
  */
 
-package com.sptek.batch.jenkins.server;
+package hmw2525.batch.jenkins.server;
 
 import java.io.IOException;
 import java.net.URI;
@@ -14,8 +14,10 @@ import java.util.Map;
 
 import com.google.common.base.Function;
 import com.google.common.collect.Maps;
-import com.sptek.batch.jenkins.client.JenkinsHttpClient;
-import com.sptek.batch.jenkins.model.*;
+
+import hmw2525.batch.jenkins.client.JenkinsHttpClient;
+import hmw2525.batch.jenkins.model.*;
+
 import org.apache.http.client.HttpResponseException;
 
 /**
